@@ -1,0 +1,16 @@
+				TEMA 1 PP
+				MINI DATABASE - JORASCU MARIAN VLADUT 325CD
+
+
+Mentionez faptul ca in realizarea temei am folosit doar functionale  fara
+a folosit recursivitate explicita. In cele ce urmeaza voi prezenta modul 
+cum am implementat baza de date si functiile pentru fiecare Task.
+
+O baza de date contine mai multe tabele . Baza de date contine mai multe
+liste , fiecare lista reprezentand o tabela. Fiecare tabela contine de asemenea
+mai multe liste : prima lista dintr-o tabela 
+contine pe prima pozitie numele tabelei dupa care numele coloanelor, iar
+urmatoarele liste (din lista corespunzatoare tabelei) reprezinta linii din tabela curenta.
+pe pozitia 0 se afla elementul corespunzator coloanei cu indicele 0 
+(indicii pleaca la 0 la n-1  ultima coloana).
+
